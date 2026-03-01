@@ -1,0 +1,14 @@
+name: vikas
+location: bijnor
+tool: (a,b,c,d)
+hobbies:
+    -playing cricket
+    -watching movie
+
+experience:
+  devops :
+  {
+    linux: 2
+    docker: 1
+    kubernetes: 1
+    }
